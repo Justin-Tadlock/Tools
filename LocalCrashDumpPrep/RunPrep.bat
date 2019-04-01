@@ -1,0 +1,1 @@
+powershell -executionpolicy bypass -Command %~dp0*.ps1
